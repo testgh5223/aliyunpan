@@ -101,6 +101,6 @@ Mac版由macwk.com使用自有签名打包dmg，可以简单点击安装了(不�
 
 
 #### 特别感谢 @jkqxl @iD2073 @ybbluesky 等为小白羊提供了大量的优化建议
-
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 
